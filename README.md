@@ -23,7 +23,7 @@ I’m especially interested in:
 - Building reusable Gutenberg components
 - Helping teams move from manual processes to reliable systems
 - Implementing AI for the good of business process
-- Teaching practical WordPress skills through my course **“Тайните на WordPress”**
+- Teaching practical WordPress skills
 
 
 ## Tech I use regularly
